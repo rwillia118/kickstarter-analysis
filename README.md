@@ -9,6 +9,8 @@ The challenges that I ran into was making sure that the formulas were placed int
 
 ![Theater outcomes yearly Chart](https://user-images.githubusercontent.com/87919924/133911804-3bd9ab53-570e-45df-9571-3e0b678e9bdb.png)
 
+![sub catergory](https://user-images.githubusercontent.com/87919924/133914515-e7babefd-ddf1-4d5e-8ff5-30e694fb5bb6.png)
+
 
 
 ## Results
