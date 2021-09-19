@@ -9,11 +9,14 @@ The challenges that I ran into was making sure that the formulas were placed int
 
 ![Theater outcomes yearly Chart](https://user-images.githubusercontent.com/87919924/133911804-3bd9ab53-570e-45df-9571-3e0b678e9bdb.png)
 
+![Outcomes chart 2](https://user-images.githubusercontent.com/87919924/133912006-3c8b066f-c1ff-4f80-8230-df814c8d3ed4.png)
 
-### Analysis of Outcomes Based on Launch Date
 
 
-### Analysis of Outcomes Based on Goals
+### Results
+
+1. Whenever you have a Theater Event you have a higher chance of reaching your funding goal in between the months of April, May, and June. That is also when the majority of the Theater events are launched. We also see that towards the end of the year there is a decrease in the amount of Theater campaigns because the there is a greater chance that they do not reach the funding goal. 
+2.  
 
 
 
